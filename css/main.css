@@ -1,0 +1,30 @@
+nav {
+  background-color: black;
+  padding: 0 20px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 40px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.box {
+  float: left;
+  width: 20%
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
